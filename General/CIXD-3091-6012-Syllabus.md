@@ -117,6 +117,7 @@ If you don’t already have accounts for these apps, you’ll need:
 
 Other software we’ll use:
 
++ [GitHub Desktop](https://desktop.github.com/download/)
 + [Copilot](https://it.gwu.edu/microsoft-copilot)
 + [Orca](https://www.orcaslicer.com/)
 
@@ -145,3 +146,22 @@ The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration 
 + .5 hour: quick exercise
 + 1 hour: client meeting (when we are working on client projects)
 + 2-3 hours: break out to work on current assignment
+
+| Week | In‑class | Assignment |
+|------------------------|------------|
+| Week 1<br>**Jan 14** | Intros; visit the Fab Lab; Intro to GitHub; screening, “Sin Embargo” | Inventory of skills in class; post to GitHub by Jan 20. |
+| Week 2<br>**Jan 21** | Intro to genAI; in‑class genAI exercises | Build a prompt that will jump‑start the process of re‑designing the LEGO brick! Post prompts and research to GitHub by Jan 27. |
+| Week 3 <br>**Jan 28** | Intro to 3D scanning and 3D printing. | Build a better LEGO brick; print 10; sculptures ensue. Post pictures of sculptures to GitHub by Feb 3. |
+| Week 4<br>**Feb 4** | Intro to laser cutting and engraving. | Build a flat‑pak enclosure/container for your LEGO bricks using the laser and one sheet of cardboard. Post research, cut file, and pictures to GitHub by Feb 10. |
+| Week 5<br>**Feb 11** | What are wireframes? Intro to Figma, SVGs, and vectors. How to create a ‘contact sheet’ and print **LARGE**. | Design/build a simple interactive prototype for a mobile‑app interface. Post wireframes and a link to the Figma project in GitHub by Feb 17. |
+| Week 6<br>**Feb 18** | First client design sprint – DISCOVERY<br>We’ll meet our first client and learn about their needs and stakeholders. | Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by Feb 24. |
+| Week 7<br>**Feb 25** | First client design sprint – DRAFT<br>We’ll present drafts to the client, capture feedback, then iterate. | Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Mar 3. |
+| Week 8<br>**Mar 4** | First client design sprint – PITCH<br>We’ll present refined prototypes to the client and capture their responses. |  Document client feedback and fill in any missing materials on GitHub by Mar 17. *(Reflect on future‑client discovery questions; then rest.)* |
+| **SPRING BREAK Mar 11** |
+| Week 9<br>**Mar 18** | Second client design sprint – DISCOVERY<br>Wash‑rinse‑repeat, but with wisdom from the last sprint. |  Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by Mar 24. |
+| Week 10<br>**Mar 25** | Second client design sprint – DRAFT<br>Is your ability to synthesize the discovery info stronger? | Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Mar 31. |
+| Week 11<br>**Apr 1** | Second client design sprint – PITCH<br>Are your presentation skills better? | Document client feedback and fill in any missing materials on GitHub by Apr 7. *(Reflect on future‑client discovery questions; then rest.)* |
+| Week 12<br>**Apr 8** | Third client design sprint – DISCOVERY<br>Yup – wash/rinse/repeat… but **BETTER**. | Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by **Apr 14**. |
+| Week 13<br>**Apr 15** | Third client design sprint – DRAFT<br>Yup – wash/rinse/repeat… but **BETTER**. |  Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Apr21. |
+| Week 14<br>**Apr 22** | Third client design sprint – PITCH<br>Yup – wash/rinse/repeat… but **BETTER**. |  Document client feedback and fill in any missing materials on GitHub by May 5. *(Reflect on what you’ve accomplished this semester; then rest.)* |
+| **DESIGNATED MONDAY (no class!) Apr 29** |
