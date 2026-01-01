@@ -147,7 +147,7 @@ The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration 
 + 1 hour: client meeting (when we are working on client projects)
 + 2-3 hours: break out to work on current assignment
 
-| Week | In‑class | Assignment |
+| Week    | In‑class | Assignment |
 |-------------|----------------------|-------------------------|
 | Week 1<br>**Jan 14** | Intros; visit the Fab Lab; Intro to GitHub; screening, “Sin Embargo” | Inventory of skills in class; post to GitHub by Jan 20. |
 | Week 2<br>**Jan 21** | Intro to genAI; in‑class genAI exercises | Build a prompt that will jump‑start the process of re‑designing the LEGO brick! Post prompts and research to GitHub by Jan 27. |
