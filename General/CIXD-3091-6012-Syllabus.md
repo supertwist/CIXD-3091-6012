@@ -109,14 +109,14 @@ You must keep a notebook and pens with you at ALL times. **BE PREPARED.**
 If you don’t have a 3-button mouse, get one! I promise, if you don’t already use one for CAD modeling, it will be a life-changing experience. [Recommended, about $25](https://www.amazon.com/Logitech-Bluetooth-Lightweight-Customizable-Easy-Switch/dp/B0BT48897L/).
 
 If you don’t already have accounts for these apps, you’ll need:
-[GitHub](https://github.com/)
-[Figma](https://www.figma.com/)
-[Adobe Creative Cloud](https://it.gwu.edu/adobe-creative-cloud)
-[Fusion 360](https://www.autodesk.com/education/home)
++ [GitHub](https://github.com/)
++ [Figma](https://www.figma.com/)
++ [Adobe Creative Cloud](https://it.gwu.edu/adobe-creative-cloud)
++ [Fusion 360](https://www.autodesk.com/education/home)
 
 Other software we’ll use:
-[Copilot](https://it.gwu.edu/microsoft-copilot)
-[Orca](https://www.orcaslicer.com/)
++ [Copilot](https://it.gwu.edu/microsoft-copilot)
++ [Orca](https://www.orcaslicer.com/)
 
 Not ‘required’ but highly, highly recommended:
 [Digital calipers, about $30](https://www.amazon.com/NEIKO-01401A-Measurement-Conversions-Millimeters/dp/B076DS19WQ/)
@@ -139,7 +139,7 @@ Students are evaluated based on public presentations, but grades are withheld un
 The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration in response to participant feedback, visitor availability, and contextual reassessment. Find any updates posted to Blackboard.
 
 **Typical Schedule**
-1 hour     JAMES SPEWS!!!
-.5 hour    quick exercise
-1 hour     client meeting (when we are working on client projects)
-2-3 hours  break out to work on current assignment
++ 1 hour     JAMES SPEWS!!!
++ .5 hour    quick exercise
++ 1 hour     client meeting (when we are working on client projects)
++ 2-3 hours  break out to work on current assignment
