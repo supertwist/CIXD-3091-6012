@@ -2,7 +2,6 @@
 
 ## COURSE AND CONTACT INFORMATION
 
-```markdown
 | **Detail**      | **Information**                         |
 |-----------------|------------------------------------------|
 | **Course**      | Prototyping and Fabrication for Interaction |
@@ -14,7 +13,6 @@
 | **Email**       | sprtwst@gwu.edu                          |
 | **Office**      | Smith Hall of Art                        |
 | **Office Hours**| By appointment                           |
-```
 
 ## CATALOG DESCRIPTION
 Investigation of prototyping as a method for testing and communicating initial design assumptions and creating platforms for participatory response; refinement of associated fabrication skills. Materials fee.
