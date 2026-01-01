@@ -2,15 +2,19 @@
 
 ## COURSE AND CONTACT INFORMATION
 
-|-------------|---------------------------------------------|
-| **Course** | Prototyping and Fabrication for Interaction |
-| **Semester** | Spring 2026 |
-| **Day** | Wednesday |
-| **Time** | 1PM - 5:30PM |
-| **Instructor** | James Huckenpahler |
-| **Email** | sprtwst@gwu.edu |
-| **Office** | Smith Hall of Art |
-| ** Office Hours** | By appointment |
+```markdown
+| **Detail**      | **Information**                         |
+|-----------------|------------------------------------------|
+| **Course**      | Prototyping and Fabrication for Interaction |
+| **Semester**    | Spring 2026                              |
+| **Day**         | Wednesday                                |
+| **Time**        | 1 PM – 5:30 PM                           |
+| **Location**    | Flagg B156                               |
+| **Instructor**  | James Huckenpahler                       |
+| **Email**       | sprtwst@gwu.edu                          |
+| **Office**      | Smith Hall of Art                        |
+| **Office Hours**| By appointment                           |
+```
 
 ## CATALOG DESCRIPTION
 Investigation of prototyping as a method for testing and communicating initial design assumptions and creating platforms for participatory response; refinement of associated fabrication skills. Materials fee.
