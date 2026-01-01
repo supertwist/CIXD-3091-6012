@@ -7,7 +7,6 @@
 | **Semester** | Spring 2026 |
 | **Day** | Wednesday |
 | **Time** | 1PM - 5:30PM |
-| **Location** | Flagg B156 |
 | **Instructor** | James Huckenpahler |
 | **Email** | sprtwst@gwu.edu |
 | **Office** | Smith Hall of Art |
