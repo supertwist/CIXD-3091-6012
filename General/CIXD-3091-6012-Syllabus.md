@@ -1,6 +1,6 @@
 # CIXD 3091/6012 Syllabus
 
-## COURSE AND CONTACT INFORMATION
+## Course Contact and Information
 
 | **Detail**      | **Information**                         |
 |-----------------|------------------------------------------|
@@ -14,12 +14,12 @@
 | **Office**      | Smith Hall of Art                        |
 | **Office Hours**| By appointment                           |
 
-## CATALOG DESCRIPTION
+## Catalog Description
 Investigation of prototyping as a method for testing and communicating initial design assumptions and creating platforms for participatory response; refinement of associated fabrication skills. Materials fee.
 **Prerequisites** CIXD 2091 and CIXD 2111.
 **Units** 3
 
-## SEMESTER APPROACH TO THE COURSE
+## Semester Approach to the Course
 The world is expensive! We'll consider how to take advantage of limited available resources: constraints can supercharge creativity.
 
 It's easy to fall into the same old routine and settle for obvious solutions. We'll develop skills that break you out of old, easy habits and assumptions that lead to more original solutions.
@@ -30,7 +30,7 @@ Clients don't want to just hear ideas, they want to see concrete things that can
 
 Everything comes to an end. What is the lifecycle of the thing you've made? Does it have a shelf life? What comes after? Rather than cradle-to-grave, we'll consider a cradle-to-cradle mindset that encourages sustainability.
 
-## COURSE CONTENT
+## Course Content
 CIXD 3091/6012 covers:
 + How to think with your eyes and hands before you touch a computer.
 + How to play nice with others (collaborate with colleagues.)
@@ -39,7 +39,7 @@ CIXD 3091/6012 covers:
 + How to 3D print things.
 + How to engage clients and pitch potential solutions.
 
-## COURSE LEARNING OUTCOMES
+## Course Learning Outcomes
 CIXD 3091/6012 satisfies the following GWU Corcoran Design Program learning outcomes:
 
 **Creativity and Design Process** (CDP) - Students will create inventive and appropriate design solutions using a variety of approaches, knowledges, and skills—including intuition, ideation, iteration, reason, research, and strategy.
@@ -59,7 +59,7 @@ These learning outcomes are dimensions of every assignment, but particularly for
 
 You will be assessed by how well you can speak to each of those dimensions at the end of as project.
 
-## STUDENT COMPETENCIES
+## Student Competencies
 By the end of CIXD 3091/6012 students will be able to:
 
 + Contribute to a GitHub repository
@@ -72,7 +72,74 @@ By the end of CIXD 3091/6012 students will be able to:
 + Capture useful info from stakeholders to solve problems 
 + Create compelling presentations that convey your solutions to clients
 
-## ACTIVITIES, PROCESSES, AND ASSIGNMENTS
+## Activities, Processes, and Assignments
 We’ll start the semester with some specific skill-building exercises (3D scanning, advanced 3D printing, advanced laser engraving and cutting). Then, we’re going to work on three live projects for real clients. Each of these will be three week sprints, where we exercise your skills such that you get progressively better through practice. By the third client project you’ll be much better at (for example) collecting stakeholder input than you were on the first client. 
 
 Getting proficient (at anything) takes repeated practice over an extended period of time. If you sit on a rock long enough, it will hatch.
+
+## Course Workload (per week)
+**In-class duration:** 4.5 hours
+**Out-of-class work:** 9 hours
+
+## Course Format 
+CIXD 3091/6012 is a studio course; it is structured around the creative interpretation of a given scenario into designed output. Instruction is conveyed via short presentations/demonstrations, in-class/field exercises, and individual and group review.
+
+## Course Resources 
+The GWU Corcoran offers dedicated resources/spaces for: cardboard, ceramics, computing, digital fabrication, drawing, mold making, painting, photography, printmaking, and shopwork. Visit corcoran.gwu.edu/open-studios for access protocol and contact the GWU Corcoran Studio Manager, Kaitlin Jencso (kjencso@gwu.edu), with direct inquiries.
+ 
+CIXD 3091/6012 students make full use of the following GWU Corcoran facilities/open studios:
+ 
+**Fabrication Lab**
+This studio is operating as a service bureau as well as a hands-on open studio for laser cutters and 3D printers. Students must receive training by studio staff before using the equipment in the lab or submitting jobs to the Service Bureau. Jobs submitted to the Service Bureau are typically completed in 24-48 hours but can take longer during periods of heavy use.
+ 
+**Large Format Printing**
+A web form/service bureau is used for large format printing. No large format printers are accessible by students. The service bureau is the only way to acquire large format prints. Turn-around time for the service bureau is less than 5 days, with potential delays during times of heavy requests. Visit [corcoran.gwu.edu/open-studios](corcoran.gwu.edu/open-studios) for submission details.
+ 
+**Equipment Check-Out**
+The GW Corcoran provides many types of creative equipment for student use. Students should explore their options with the Flagg Basement Checkout, through the Exhibitions Coordinator, and associated with the Design program.
+
+For more information–on everything from making individual training arrangements to researching additional resources–refer to [corcoran.gwu.edu/our-spaces](corcoran.gwu.edu/our-spaces).
+
+## Course Supplies
+Students are expected to purchase assignment-specific design supplies throughout CIXD 3091/6012. While there are always work-arounds, students should budget for +/- $500 in course-specific material expenses. Students with financial hardships should discuss alternatives with the instructor. Detailed purchase lists are provided with individual assignments; a general purchase list is provided below.
+ 
+### Tools
+You must keep a notebook and pens with you at ALL times. **BE PREPARED.**
+
+If you don’t have a 3-button mouse, get one! I promise, if you don’t already use one for CAD modeling, it will be a life-changing experience. [Recommended, about $25](https://www.amazon.com/Logitech-Bluetooth-Lightweight-Customizable-Easy-Switch/dp/B0BT48897L/).
+
+If you don’t already have accounts for these apps, you’ll need:
+[GitHub](https://github.com/)
+[Figma](https://www.figma.com/)
+[Adobe Creative Cloud](https://it.gwu.edu/adobe-creative-cloud)
+[Fusion 360](https://www.autodesk.com/education/home)
+
+Other software we’ll use:
+[Copilot](https://it.gwu.edu/microsoft-copilot)
+[Orca](https://www.orcaslicer.com/)
+
+Not ‘required’ but highly, highly recommended:
+[Digital calipers, about $30](https://www.amazon.com/NEIKO-01401A-Measurement-Conversions-Millimeters/dp/B076DS19WQ/)
+ 
+### Texts
+Specific readings will be provided as physical copies and .PDF. And I’m always finding new material of interest and will share with the class as it comes up.
+
+## Course Expectations of Students
+Showing up on time to every class, submitting all assignments on time, participating in class, checking off all the boxes will guarantee… a ‘B.’ To get an ‘A’ you have to take big risks… if your going to fail, FAIL SPECTACULARLY. You’ll learn so much more failing spectacularly than playing it safe. And school is the safe space to have those failures. 
+
+CIXD 3091/6012 students are expected to be active participants, discursive and productive. Students are asked to arrive promptly at each class prepared for the relevant in-class activities and exercises.
+ 
+CIXD 3091/6012 is structured around regular assignments. Individual assignments describe the case-specific submission expectations. Generally, students share assignment submissions with the class. Students are required to pin-up physical work or screenshare digital work. All work must be pinned up and/or uploaded by the start of the deadline class. In this class in particular, we’ll be working with actual clients - they love to get their hands on REAL things.
+ 
+Regardless of format, all student work must be submitted (for purposes of assessment, archiving, and outreach) as formatted digital packages. Students must upload digital files (computational originals or photographic documentation of the physical) of their work to GitHub.
+ 
+Students are evaluated based on public presentations, but grades are withheld until the final digital files are saved in GitHub.
+
+## Course Schedule
+The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration in response to participant feedback, visitor availability, and contextual reassessment. Find any updates posted to Blackboard.
+
+**Typical Schedule**
+1 hour     JAMES SPEWS!!!
+.5 hour    quick exercise
+1 hour     client meeting (when we are working on client projects)
+2-3 hours  break out to work on current assignment
