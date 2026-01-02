@@ -5,6 +5,15 @@
 + [Online here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-Syllabus.md)
 + [PDF here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-syllabus-Huckenpahler-S26.pdf)
 
+**Other channels to find James that aren't on the syllabus**
++ I dont have offce hours, but I'm on campus 5-7 days a week. Make an appointment with me - prefereably 24 hours in advance.
++ email my work account: sprtwst@gwu.edu
++ txt: 202-413-4983. That's my cell. Don't call. I won't answer. I don't even answer my mom's calls. I'm ALWAYS in the middle of something. But if you txt, I will get back to you ASAP (usually a few minutes.)
++ IG: [https://www.instagram.com/sprtwst/](https://www.instagram.com/sprtwst/)
++ Discord: supertwist
++ Mastadon: [https://dmv.community/@supertwist](https://dmv.community/@supertwist)
++ web: [https://superluckyland.com](https://superluckyland.com)
+
 **Other useful links for this class**
 + [General IT info](https://gwu.box.com/s/8dz3yz47xg1pse42z42gjs6n53go37x3)
 + [Laser Tutorial](https://gwu.box.com/s/0odvjf5zy0kga3msarp9l2gmmy50csua)
