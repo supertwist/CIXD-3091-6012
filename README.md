@@ -1,6 +1,9 @@
 # CIXD-3091-6012
 "Good data for bad people." - Kurt Heumiller, National Gallery of Art
 
+**How is this page formatted?**
+This isn't a plain vanilla .TXT file or a MS-Word .DOCX - it uses **mardown** to format the content and uses the .MD file extension. Markdown is a little like .HTML, but much simpler. I'll be using it a lot for the documents I create for this class. Periodically, I'll give you written assignments that you will include in this repo, and any notes or research you do for assignments should be captured here as well (boosts your grade when I can see your research and thought process!) You can save those texts as .TXT, but if you want additional visual clarity (readability), here is a cheat sheet for adding markdown formatting.
+
 **The syllabus for this class:**
 + [Online here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-Syllabus.md)
 + [PDF here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-syllabus-Huckenpahler-S26.pdf)
