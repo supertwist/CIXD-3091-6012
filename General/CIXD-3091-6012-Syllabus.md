@@ -166,3 +166,36 @@ The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration 
 | Week 14<br>**Apr 22** | Third client design sprint – PITCH<br>Yup – wash/rinse/repeat… but **BETTER**. |  Document client feedback and fill in any missing materials on GitHub by May 5. *(Reflect on what you’ve accomplished this semester; then rest.)* |
 |  **Apr 29** | **DESIGNATED MONDAY** | **(no class!)** |
 | Week 15<br> | Post-mortem. We’ll review each student’s work one-by-by-one, recognizing how your skills have expanded, and looking at where to go next to continue growing. | *NOTE, firm date and time for final class period won’t be announced til later in the semester. **DO NOT BOOK TICKETS HOME UNTIL AFTER FINAL SCHEDULE IS ANNOUNCED!** |
+
+## Assessment 
+The Design Program at the GWU Corcoran tracks student success via five assessment criteria/measures or learning outcomes: design criticism and vocabulary; creativity and design process; design impact; design tools, techniques, and skills; and professional design practices. CIXD 3091/6012 is responsible for providing content that teaches Creativity and Design Process (CDP), Design Impact (IMP), Design Tools, Techniques, and Skills (TTS), and Professional Design Practices (PDP) . CIXD 3091/6012 activities, processes, and assignments prepare and prompt students to demonstrate competencies that align with one or more of the assessment criteria/measures or learning outcomes for which the course is responsible.
+
+## How Students Demonstrate Learning
+**Per Class Assignments (30%)**
+Students create new work for each class. The per-class assignments are incremental steps in the development of a culminating product.
+ 
+**Phase Reviews (60%)**
+Students present their cumulative work from each phase in a formal review.
+ 
+**Attendance/Participation (10%)**
+Students are expected to attend class and engage respectfully with peers and faculty/staff. Class participation can take on many forms, from showing up prepared to verbally asking thoughtful questions to listening with an open mind.
+
+## Assessment Matrix
+CIXD 3091/6012 is evaluated overall according to the following:
+
+| Assignment                | Point Value Per Assignment | Number of Assignments | Total Percent of Final Grade |
+|---------------------------|:--------------------------:|:---------------------:|:----------------------------:|
+| Per Class Assignments     | 10                         | 12                    | 30%                          |
+| Phase Review              | 100                        | 3                     | 60%                          |
+| Attendance/Participation  | 1                          | 15                    | 10%                          |
+| **TOTAL**                 | –                          | –                     | **100%**                     |
+```
+
+When rendered, it will look like this:
+
+| Assignment                | Point Value Per Assignment | Number of Assignments | Total Percent of Final Grade |
+|---------------------------|:--------------------------:|:---------------------:|:----------------------------:|
+| Per Class Assignments     | 10                         | 12                    | 30%                          |
+| Phase Review              | 100                        | 3                     | 60%                          |
+| Attendance/Participation  | 1                          | 15                    | 10%                          |
+| **TOTAL**                 | –                          | –                     | **100%**                     |
