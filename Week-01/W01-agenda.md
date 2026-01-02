@@ -1,9 +1,9 @@
 # Week 1 Agenda
 + Intros
 + What is this class?
++ Exercise: $killz inventory
 + What is Git?
 + Open Source Program Office, David Lippert
-+ Exercise: $killz inventory
 + Watch: Sin Embargo
 + Watch: Tom Sachs, Bricolage
 + Discussion
