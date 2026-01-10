@@ -30,8 +30,9 @@ Need a reminder? [Watch this.](https://www.youtube.com/watch?v=d8heORFuGOY)
 + [Laser Adobe Illustrator template file](https://gwu.box.com/s/oad1vz9n64sub4ktku7v5p790o1cf34c)
 + [3D Printing Tutorial](https://gwu.box.com/s/f8ftuq4ezcuovncya3ntmaq6pyjfwdtq)
 + Once we've completed the laser and 3D printing trainings, you'll need to complete this [studio agreement](https://docs.google.com/forms/d/e/1FAIpQLSdvbIHfjdNhPotsLItXpPL-hKXiM-IyMhSEFbGd6o98jzJAlg/viewform?usp=header) to be able to use the Fab Lab.
-+ **Online .STL repair** [FormWare](https://formware.co/OnlineStlRepair) - handfy for repairing janky meshes you've ganked from the internets.
++ **Online .STL repair** [FormWare](https://formware.co/OnlineStlRepair) - handy for repairing janky meshes you've ganked from the internets.
 ![Screenshot of FormWare.](/assets/formware.png)
++ Free through the university, [**LinkedIn Learning**](https://it.gwu.edu/linkedin-learning) - lots of useful courses and tutorials.
 
 **Recommended Reading/Watching**
 + ["Enshittification," by Cory Doctorow.](https://craphound.com/category/enshittification/) - great thesis on *why* the internet (and tech products in general) have become so awful. And, also a call to arms against the broligarchs.
