@@ -31,8 +31,11 @@ Need a reminder? [Watch this.](https://www.youtube.com/watch?v=d8heORFuGOY)
 + [3D Printing Tutorial](https://gwu.box.com/s/f8ftuq4ezcuovncya3ntmaq6pyjfwdtq)
 + Once we've completed the laser and 3D printing trainings, you'll need to complete this [studio agreement](https://docs.google.com/forms/d/e/1FAIpQLSdvbIHfjdNhPotsLItXpPL-hKXiM-IyMhSEFbGd6o98jzJAlg/viewform?usp=header) to be able to use the Fab Lab.
 
-**Recommended Reading**
+**Recommended Reading/Watching**
 + ["Enshittification," by Cory Doctorow.](https://craphound.com/category/enshittification/) - great thesis on *why* the internet (and tech products in general) have become so awful. And, also a call to arms against the broligarchs.
 + ["Jugaad Innovation," by Navi Radjou, Jaideep Prabhu, and Simone Ahuja](https://jugaadinnovation.com/) - (I'm still in the middle of this, but great read..) discusses non-western approaches to creative problem solving with limited material resources and a wealth of cultural resources. 
 + ["Think Wrong," by  John Bielenberg, Mike Burn, Greg Galle, and Elizabeth Evitts Dickinson](https://www.thinkwrongbook.com/) - a cookbook of strategies for discovering non-obvious solutions.
 + [Coding Train](https://thecodingtrain.com/) - a web site that organizes an extensive library of videos that introduces coding to visual artist-types like you and me. Daniel Shiffman is my hero. And, in the context of this class, the best place to start is his ["GitHub for Poets" tutorials](https://thecodingtrain.com/tracks/git-and-github-for-poets). He 'splains it WAAAAAY better than I do.
++ [Tom Sachs' 10 Bullets](https://www.youtube.com/watch?v=49p1JVLHUos) - How to work TO CODE. Lots of relevent principles for this class, and professional practice in general.
++ [Inside My Studio: Tom Sachs ](https://www.youtube.com/watch?v=td7LrVY74Gg) - Breaking character, Sachs talks sincerely about his studio practice. His comments about hot glue guns really drive home the value of RAPID prototyping vs trying to get everything *perfect.* 
++ [An Idea – Things My Mom Taught Me](https://www.youtube.com/watch?v=R0LqgJgMUoQ) - Yes, more Tom Sachs... and his mom! Great demo of working with found resources.
