@@ -9,6 +9,12 @@ This isn't a plain vanilla .TXT file or a MS-Word .DOCX - it uses **markdown** t
 + [Online here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-Syllabus.md)
 + [PDF here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-syllabus-Huckenpahler-S26.pdf)
 
+**Always have on hand, every class... or sacrifice to Leatherface!**
++ Notebook and pens
++ Smartphone (for documenting in-process)
++ Laptop... with power cable! It's a 4.5 hour class.
+Need a reminder? [Watch this.](https://www.youtube.com/watch?v=d8heORFuGOY)
+
 **Other channels to find James that aren't on the syllabus**
 + I dont have offce hours, but I'm on campus 5-7 days a week. Make an appointment with me - prefereably 24 hours in advance.
 + email my work account: sprtwst@gwu.edu
