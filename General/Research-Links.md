@@ -4,7 +4,9 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
-+ Better **TPU printing** [tutorial with dsettings](https://www.instagram.com/reel/DSxavwMjame/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). Again on the IG.
++ **Cleaner prints,** at least for PLA [settings tutorial](https://www.instagram.com/reel/DSuFTfcDntB/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). 
+
++ Better **TPU printing** [tutorial with settings](https://www.instagram.com/reel/DSxavwMjame/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). Again on the IG.
 
 + Better **translucency for 3D-printed objects** [quick tutorial](https://www.instagram.com/reel/DQ66m5sDWka/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). On the IG, and gives example of why you'd want to use a different nozzle, and change temp and speed settings.
 
