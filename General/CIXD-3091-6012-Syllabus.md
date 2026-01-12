@@ -125,7 +125,7 @@ Not ‘required’ but highly, highly recommended:
 [Digital calipers, about $30](https://www.amazon.com/NEIKO-01401A-Measurement-Conversions-Millimeters/dp/B076DS19WQ/)
  
 **Texts**
-Specific readings will be provided as physical copies and .PDF. And I’m always finding new material of interest and will share with the class as it comes up.
+Specific readings will be provided as .PDF files as-needed (There will only be a handfull of readings). And I’m always finding new material of interest and will share with the class as it comes up.
 
 ### Course Expectations of Students
 Showing up on time to every class, submitting all assignments on time, participating in class, checking off all the boxes will guarantee… a ‘B.’ To get an ‘A’ you have to take big risks… if your going to fail, FAIL SPECTACULARLY. You’ll learn so much more failing spectacularly than playing it safe. And school is the safe space to have those failures. 
