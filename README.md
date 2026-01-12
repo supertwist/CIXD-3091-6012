@@ -43,3 +43,5 @@ Need a reminder? [Watch this.](https://www.youtube.com/watch?v=d8heORFuGOY)
 + [Tom Sachs' 10 Bullets](https://www.youtube.com/watch?v=49p1JVLHUos) - How to work TO CODE. Lots of relevent principles for this class, and professional practice in general.
 + [Inside My Studio: Tom Sachs ](https://www.youtube.com/watch?v=td7LrVY74Gg) - Breaking character, Sachs talks sincerely about his studio practice. His comments about hot glue guns really drive home the value of RAPID prototyping vs trying to get everything *perfect.* 
 + [An Idea – Things My Mom Taught Me](https://www.youtube.com/watch?v=R0LqgJgMUoQ) - Yes, more Tom Sachs... and his mom! Great demo of working with found resources.
+
++ [LLM deep dive video](https://www.youtube.com/watch?v=7xTGNNLPyMI). It's a couple of hours long, but it doesn't get too technical, and demystifies the technology. After I watched it, I realized how much of genAI is really just Mechanical Turk parlor tricks.
