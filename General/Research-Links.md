@@ -4,6 +4,10 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
++ 3D printed **foam???** [Build](https://www.instagram.com/reel/DSzRmLDkYIG/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==) and vendor, TPU air by [Siraya Tech](https://siraya.tech/products/flex-tpu-air-65a-82a-foaming-flexible-filament)
+
++ Easier **support removal** [settings](https://www.instagram.com/reel/DQlzZxkk916/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==).
+
 + **Cleaner prints,** at least for PLA [settings tutorial](https://www.instagram.com/reel/DSuFTfcDntB/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). 
 
 + Better **TPU printing** [tutorial with settings](https://www.instagram.com/reel/DSxavwMjame/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==). Again on the IG.

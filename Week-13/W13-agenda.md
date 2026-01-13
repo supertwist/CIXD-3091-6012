@@ -1,2 +1,2 @@
 # Week 13 Agenda
-+ placeholder
+Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Apr21.

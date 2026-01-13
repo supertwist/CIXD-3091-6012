@@ -1,4 +1,6 @@
 # Week 2 Agenda
+Build a prompt that will jump‑start the process of re‑designing the LEGO brick! Post prompts and research to GitHub by Jan 27.
+
 + AI lecture
 + 3D printing demo
 + Orca [tutorial](https://gwu.box.com/s/f8ftuq4ezcuovncya3ntmaq6pyjfwdtq)
