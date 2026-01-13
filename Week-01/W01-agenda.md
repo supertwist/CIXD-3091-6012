@@ -4,8 +4,6 @@
 + Syllabus (10 min)
 + Exercise: $killz inventory (20 min)
 + What is Git? (30 min)
-+ a text editor
-+ GitHub Desktop
 + add everyone to the repo
 + the baby step - create a .txt file that lists you $killz, in a /dir with your name in Week 1
 + Open Source Program Office, David Lippert (10 min)
