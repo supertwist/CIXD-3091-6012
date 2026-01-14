@@ -1,2 +1,23 @@
+James' superpowers:
+
 grilled cheese sandwiches
-photoshop
+Photoshop
+digital printing
+Illustrator
+InDesign
+
+Skills:
+
+Git
+Max/MSP
+Premiere
+basic terminal
+HPC
+CompfyUI
+Fusion360
+3D printing
+laser cutting
+drawing
+painting
+markdown
+HTML, CSS
