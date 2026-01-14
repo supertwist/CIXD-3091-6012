@@ -4,7 +4,7 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
-+ I've been looking for a imple markdown editor; [MarkText](https://marktext.me/) is free, open source, and cross-platform.
++ I've been looking for a simple markdown editor; [MarkText](https://marktext.me/) is free, open source, and cross-platform.
 
 + 3D printed **foam???** [Build](https://www.instagram.com/reel/DSzRmLDkYIG/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==) and vendor, TPU air by [Siraya Tech](https://siraya.tech/products/flex-tpu-air-65a-82a-foaming-flexible-filament)
 
