@@ -5,6 +5,7 @@ Build a prompt that will jump‑start the process of re‑designing the LEGO bri
   + meet Daniel Jonas
   + discuss resources available
   + do's and don'ts
++ review creating directories in GitHub
 + review skills, form teams
 + data safety
 + AI lecture
