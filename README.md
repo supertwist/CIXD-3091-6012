@@ -1,7 +1,9 @@
 # RAPID UP
 a.k.a CIXD-3091-6012  
 
-**"Good data for bad people."** - *Kurt Heumiller, National Gallery of Art*
+**"Good data for bad people."** - *Kurt Heumiller, National Gallery of Art*  
+
+![Screenshot of my desk.](/assets/notebook.png)
 
 **How is this page formatted?** 
 
@@ -32,7 +34,7 @@ Need a reminder? [Watch this.](https://www.youtube.com/watch?v=d8heORFuGOY)
 + [Laser Adobe Illustrator template file](https://gwu.box.com/s/oad1vz9n64sub4ktku7v5p790o1cf34c)
 + [3D Printing Tutorial](https://gwu.box.com/s/f8ftuq4ezcuovncya3ntmaq6pyjfwdtq)
 + Once we've completed the laser and 3D printing trainings, you'll need to complete this [studio agreement](https://docs.google.com/forms/d/e/1FAIpQLSdvbIHfjdNhPotsLItXpPL-hKXiM-IyMhSEFbGd6o98jzJAlg/viewform?usp=header) to be able to use the Fab Lab.
-+ **Online .STL repair** [FormWare](https://formware.co/OnlineStlRepair) - handy for repairing janky meshes you've ganked from the internets.
++ **Online .STL repair** [FormWare](https://formware.co/OnlineStlRepair) - handy for repairing janky meshes you've ganked from the internets.  
 ![Screenshot of FormWare.](/assets/formware.png)
 + Free through the university, [**LinkedIn Learning**](https://it.gwu.edu/linkedin-learning) - lots of useful courses and tutorials.
 
