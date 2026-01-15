@@ -3,7 +3,7 @@ a.k.a CIXD-3091-6012
 
 **"Good data for bad people."** - *Kurt Heumiller, National Gallery of Art*  
 
-![Screenshot of my desk.](/assets/notebook.png)
+![Screenshot of my desk.](/assets/notebook.jpg)
 
 **How is this page formatted?** 
 
