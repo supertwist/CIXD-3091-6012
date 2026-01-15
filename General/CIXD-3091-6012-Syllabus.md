@@ -68,7 +68,7 @@ By the end of CIXD 3091/6012 students will be able to:
 + Use the 3D scanners
 + Create basic models for FDM printing Fusion 360
 + Prep files for FDM printing using Orca slicer (like the lasers, we’ll touch on some more esoteric capabilities that aren’t covered in the basic laser training)
-+ Build useful prompts in Gemini
++ Build useful prompts in Copilot
 + Capture useful info from stakeholders to solve problems 
 + Create compelling presentations that convey your solutions to clients
 
@@ -158,7 +158,7 @@ The CIXD 3091/6012 course schedule is subject to refinement and reconfiguration 
 | Week 7<br>**Feb 25** | First client design sprint – DRAFT<br>We’ll present drafts to the client, capture feedback, then iterate. | Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Mar 3. |
 | Week 8<br>**Mar 4** | First client design sprint – PITCH<br>We’ll present refined prototypes to the client and capture their responses. |  Document client feedback and fill in any missing materials on GitHub by Mar 17. *(Reflect on future‑client discovery questions; then rest.)* |
 | **Mar 11** | **SPRING BREAK Mar 11** | **no class** |
-| Week 9<br>**Mar 18** | Second client design sprint – DISCOVERY<br>Wash‑rinse‑repeat, but with wisdom from the last sprint. |  Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by Mar 24. |
+| Week 9<br>**Mar 18** | Second client design sprint – DISCOVERY<br>CMUS 3161 - Composing with Computers<br>Wash‑rinse‑repeat, but with wisdom from the last sprint. |  Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by Mar 24. |
 | Week 10<br>**Mar 25** | Second client design sprint – DRAFT<br>Is your ability to synthesize the discovery info stronger? | Using client feedback, iterate and refine your solution. Post research, sketches, and pitch presentation to GitHub by Mar 31. |
 | Week 11<br>**Apr 1** | Second client design sprint – PITCH<br>Are your presentation skills better? | Document client feedback and fill in any missing materials on GitHub by Apr 7. *(Reflect on future‑client discovery questions; then rest.)* |
 | Week 12<br>**Apr 8** | Third client design sprint – DISCOVERY<br>Yup – wash/rinse/repeat… but **BETTER**. | Document discovery information. Sketch possible solutions; identify one to prototype; build prototype. Post research, sketches, and draft presentation to GitHub by **Apr 14**. |
