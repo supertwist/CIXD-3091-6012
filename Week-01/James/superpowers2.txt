@@ -1,5 +1,4 @@
 James' superpowers:
-
 grilled cheese sandwiches
 Photoshop
 digital printing
@@ -7,7 +6,6 @@ Illustrator
 InDesign
 
 Skills:
-
 Git
 Max/MSP
 Premiere
@@ -21,3 +19,9 @@ drawing
 painting
 markdown
 HTML, CSS
+
+I'm so old, that I've forgotten these skills:
+archery
+first aid
+french
+skateboarding
