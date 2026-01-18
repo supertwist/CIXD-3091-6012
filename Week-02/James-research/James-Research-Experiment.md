@@ -170,9 +170,9 @@ SRC: Copilot, GPT5, 01/18/2026
 + If the dimensions found in the sources differ, explain why.
 + Double check the dimensions against all of the sources. 
 + Ensure all the of the dimensions are consistent with each other.
-+ **Ensure the drawing is consistent with the online sources - all of the parts of the brick are in the correct positions relative to each other.**
++ *Ensure the drawing is consistent with the online sources - all of the parts of the brick are in the correct positions relative to each other.*
 + Explicitly include all dimensions on the drawing.
-+ **Include links to the online sources on the drawing.**
++ *Include links to the online sources on the drawing.*
 + Save as a .PDF file.
 
 **Result:**
@@ -309,3 +309,21 @@ You’ll see all of these called out in the **Top (plan)**, **Front (long side)*
 ## Anything to adjust?
 
 If you’d like **inch dual‑dimensioning**, a **section view** for ceiling/wall thickness, a **pure three‑view without the bottom inset**, or a **landscape** layout, I can regenerate in seconds.
+
+---
+
+# Third attempt!
+
+**Prompt:**
++ Create a technical drawing for a 2x3 stud lego brick.
++ Find 3 sources online that specify precise dimensions.
++ If the dimensions found in the sources differ, explain why.
++ Double check the dimensions against all of the sources. 
++ Ensure all the of the dimensions are consistent with each other.
++ Ensure the drawing is consistent with the online sources - all of the parts of the brick are in the correct positions relative to each other.
++ *Explicitly include all parts show dimensions on the drawing, to include studs, walls, and tubes; note the dimensions of these parts on the drawing.*
++ *Ensure top, side, bottom and front elevations are included in the drawing.*
++ Include links to the online sources on the drawing.
++ Save as a .PDF file.
+
+**Result:**
