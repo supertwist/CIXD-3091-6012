@@ -1,6 +1,6 @@
 # James' Copilot research experiment!  
 
-SRC: Copilot, (model), 01/18/2026
+SRC: Copilot, GPT5, 01/18/2026
 
 **Prompt** 
 + Create a technical drawing for a 2x3 stud lego brick.
