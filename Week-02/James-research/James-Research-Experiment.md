@@ -1,6 +1,7 @@
 # James' Copilot research experiment!  
+**Just so you know** this is an example of something that didn't work, but since it provides clues, it's useful as a stepping stone. Also, it's an example for you as to how you should cite your usage of genAI, and document your prompts and their results.
 
-SRC: Copilot, GPT5, 01/18/2026
+SRC: Copilot, GPT5, 01/18/2026 
 
 **Prompt** 
 + Create a technical drawing for a 2x3 stud lego brick.
