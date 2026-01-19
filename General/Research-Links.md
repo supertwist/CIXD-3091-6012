@@ -4,6 +4,8 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
++ [list of **models** available in Ollama](https://ollama.com/library)
+
 + [Claude CoWork](https://claude.com/resources/tutorials/claude-cowork-a-research-preview) is in development mode but looks *really* intersting. It's basically Claude Code, but **not** in a terminal.
 
 + I've been looking for a simple markdown editor; [MarkText](https://marktext.me/) is free, open source, and cross-platform.
