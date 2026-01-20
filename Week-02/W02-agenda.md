@@ -11,7 +11,7 @@ Build a prompt that will jump‑start the process of re‑designing the LEGO bri
 + AI lecture
 + AltLego assignment
 + An exercise:
-  + make a list of 5 possible lego bricks
+  + make a list of 5 possible lego bricks, then choose the one that's most interesting to you...
   + formulate a research question
   + turn that research question into a prompt that gathers information from at least 5 web sites
   + ensure your prompt specifies that the result should cite the sources
