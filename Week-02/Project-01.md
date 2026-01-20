@@ -8,11 +8,14 @@ A novel, expressive, repeatable sculptural element that extends the vocabulary o
 2. Total brick volume should fit within 2" x 2" x 2".
 
 **Process:**
-+ Print one, test with authentic Lego bricks to ensure your design works. Fix/refine/iterate as-needed.
-+ Once you have a tested brick, print 9 more.
-+ Build a small sculpure with it. Photograph your sculpture. Then disassemble.
-+ Wash/rinse/repeat 9 more times.
-+ At the end, you will have documented 10 possible sculptures.
++ this week: imagine, research, design, create a model
++ next week: 
+  + print one, test with authentic Lego bricks to ensure your design works. Fix/refine/iterate as-needed.
+  + Once you have a tested brick, print 9 more.
+  + Build a small sculpure with it. Photograph your sculpture. Then disassemble.
+  + Wash/rinse/repeat 9 more times.
+  + At the end, you will have documented 10 possible sculptures.
++ week after: present in class
 
 **Documentation**
 In GitHub, create a sub-directory in Week-04 with your name, and upload your 10 pictures.
