@@ -4,6 +4,8 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
++ [Great essay by Cory Doctorow in the **Guardian** on why AI will fail](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
+
 + [**How many tokens...?**](https://tiktokenizer.vercel.app/)
 
 + [list of **models** available in Ollama](https://ollama.com/library)
