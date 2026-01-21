@@ -4,6 +4,7 @@ Photoshop
 Illustrator
 InDesign
 Figma 
+Cooking
 
 Skills:
 
@@ -16,3 +17,4 @@ painting
 HTML, CSS
 SKI
 Hockey
+Woodwork
