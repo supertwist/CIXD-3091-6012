@@ -1,5 +1,5 @@
 **Superpowers**
-I have ADHD
+- I have ADHD
 
 **Skills**
 - Adobe CC
@@ -7,3 +7,5 @@ I have ADHD
 - Rhino8
 - TouchDesigner
 - Blender
+- Branding
+- Creative marketing
