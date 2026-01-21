@@ -1,8 +1,18 @@
 Design
 
-Design Hierarchy, Data Visualization, Packaging Design, Illustration
+Design Hierarchy
+Data Visualization
+Digital Interfaces
+Packaging Design
+Illustration
 
 Softwares
 
-Figma, Sketch, Adobe Suites (Photoshop, Illustrator, XD, After Effects, Premiere Pro, InDesign, Lightroom), 
-HTML, CSS, Clip Studio, Rhino
+Figma
+Sketch
+Adobe Suites (Photoshop, Illustrator, XD, After Effects, Premiere Pro, InDesign, Lightroom)
+AI Editing
+HTML
+CSS
+Clip Studio
+Rhino
