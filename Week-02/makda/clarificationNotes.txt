@@ -1,0 +1,24 @@
+📝 How I Decided What Counts as “Best”
+To determine which adaptations qualified as the “best,” I used four objective criteria, all aligned with your requirement that each entry include sales‑related “success” info and multiple reliable sources:
+1. Documented, measurable game‑sales or engagement impact
+Shows were selected if they produced clear, verifiable changes in game behavior—e.g.:
+
+Sales spikes (e.g., Fallout’s +7,500%, Witcher’s +554%).
+Chart position jumps (e.g., Fallout #87→#5, TLOU #36→#11).
+Massive player‑count surges (e.g., Cyberpunk +1M DAU; Witcher 100k CCU).
+
+If a show could not demonstrate meaningful post‑release game impact with reliable data, it was excluded from the initial top 3.
+2. Presence of at least three reputable, industry‑grade sources
+Selections were limited to adaptations with high‑quality data from places like:
+GamesIndustry.biz, Circana/NPD, PC Gamer, Ars Technica, IGN, VentureBeat, Bloomberg summaries.
+This ensured each row had solid, multi‑sourced evidence.
+3. Industry recognition as standout adaptations
+These five shows are widely acknowledged in trade reporting as major cross‑media successes (even when sales impact varies).
+Their inclusion reflects both cultural prominence and availability of quantifiable effects.
+4. Ability to explain and reconcile conflicting data
+“Best” also meant the chosen adaptations had enough reliable, traceable data to reconcile regional/timeframe/metric differences—necessary for the table's “conflict” column.
+Why Arcane and The Witcher were later additions
+You asked for two more, so I added:
+
+The Witcher: enormous, well‑documented sales impact → objectively belongs in any “best” list.
+Arcane: critically acclaimed and culturally huge; not a sales success, but its importance as an adaptation warranted inclusion under your “add 2 more” request.
