@@ -2,6 +2,7 @@
 - I have ADHD
 - Billingual (Chinese + English)
 - Super spontaneous & adventurous
+- I love soldering
 
 **Skills**
 - Adobe CC
