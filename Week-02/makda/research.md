@@ -1,4 +1,4 @@
-
+SRC: Copilot, GPT5, 01/21/2026
 # Game-to-TV Adaptations: Sales Impact Comparison
 
 | Adaptation (TV Platform) | “Success” Info (Impact on Game Sales / Engagement) | Links to Sources | Conflicting Source Discussion |
