@@ -1,1 +1,19 @@
+Copilot, GPT-5.1, 1/21/2026
 
+**Prompt:**
+Compare top three most popular ski resorts near DMV area and give a full comparison of their lift tickets price, rentals, drive time, and terrain difficulty. Also include discussion of conflicting source information.
+
+**Result:**
+Snowshoe, Wisp, and Seven Springs each offer a distinctly different experience for skiers and snowboarders traveling from the DC area. Snowshoe delivers the largest terrain and the most advanced slopes, but its dynamic pricing creates the widest variation—and the most conflicting information—across sources. Wisp stands out as the most convenient and beginner‑friendly option, with clear, predictable pricing and the shortest drive. Seven Springs offers the most balanced terrain and can be either the cheapest or the most expensive depending on whether you rent equipment on‑ or off‑mountain, which explains the biggest discrepancies between official and third‑party listings. Overall, the three resorts differ most in pricing transparency, terrain difficulty, and how consistently their information is reported across sources.
+
+---
+
+# 🏔️ **DMV Ski Resorts — Full Comparison (with Conflicting Source Discussion)**
+
+| Resort | One‑Day Adult Lift Ticket Price | Snowboard Rental Price | Drive Time from DC | Terrain Difficulty | Source Links | Conflicting Source Information |
+|--------|---------------------------------|-------------------------|---------------------|---------------------|--------------|--------------------------------|
+| **Snowshoe Mountain (WV)** | **\$89–\$125** (dynamic pricing) | **\$54–\$70** depending on rental shop | ~4 hr 15 min | 23% Beginner • 36% Intermediate • 41% Advanced | Lift tickets: [https://www.snowshoemtn.com/](https://www.snowshoemtn.com/) ; Rentals: [https://www.snowshoemtn.com/rentals](https://www.snowshoemtn.com/rentals) ; Terrain: [https://www.snowshoemtn.com/mountain](https://www.snowshoemtn.com/mountain) | **Conflicts:** Third‑party sites (SnowStash, OnTheSnow) often list outdated or narrower price ranges. Snowshoe uses dynamic pricing, so official prices fluctuate daily and may not match external listings. Rental prices vary by on‑mountain shop, causing inconsistent numbers across sources. |
+| **Wisp Resort (MD)** | **\$89 (weekday online) – \$129 (weekend window)** | **\$59 (midweek) / \$69 (weekend)** | ~2 hr 45 min | 41% Beginner • 47% Intermediate • 12% Advanced | Lift tickets: [https://www.wispresort.com/Tickets/](https://www.wispresort.com/Tickets/) ; Rentals: [https://www.wispresort.com/Rentals/](https://www.wispresort.com/Rentals/) ; Terrain: `https://www.wispresort.com/The-Mountain/` [(wispresort.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.wispresort.com%2FThe-Mountain%2F") | **Conflicts:** Some travel blogs still list Wisp’s pre‑2024 pricing (\$79–\$99). Wisp updated its pricing structure recently, so older guides don’t match the current official rates. Terrain percentages are consistent across sources, but some list “advanced” as 10–12% depending on rounding. |
+| **Seven Springs (PA)** | **~\$125** (advance purchase) | **\$67** (official) OR **\$30–\$35** (off‑mountain shops) | ~3 hr 30 min | 35% Beginner • 40% Intermediate • 25% Advanced | Lift tickets: [https://www.7springs.com/](https://www.7springs.com/) ; Rentals: [https://www.7springs.com/rentals/](https://www.7springs.com/rentals/) ; Terrain: `https://www.7springs.com/the-mountain/` [(7springs.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.7springs.com%2Fthe-mountain%2F") | **Conflicts:** Some news outlets report higher lift ticket prices due to Vail Resorts’ dynamic pricing, while others cite older flat‑rate pricing. Rental prices vary significantly: the resort’s own rentals are higher, but many third‑party shops list much cheaper packages, creating large discrepancies. |
+
+---
