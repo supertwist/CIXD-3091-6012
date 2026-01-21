@@ -1,4 +1,4 @@
-**Super Powers**
+**Superpowers**
 I have ADHD
 
 **Skills**
