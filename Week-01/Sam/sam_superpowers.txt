@@ -7,6 +7,8 @@ Bilingual: English + Korean
 
 Skills:
 
+Branding
+UI/UX
 Illustrator
 basic terminal
 Fusion360
