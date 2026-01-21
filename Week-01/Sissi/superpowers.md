@@ -2,8 +2,8 @@
 I have ADHD
 
 **Skills**
-Adobe CC
-Figma
-Rhino8
-TouchDesigner
-Blender
+- Adobe CC
+- Figma
+- Rhino8
+- TouchDesigner
+- Blender
