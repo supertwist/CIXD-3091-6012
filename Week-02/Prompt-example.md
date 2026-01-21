@@ -1,13 +1,13 @@
 # Research prompt example:
 Copilot, GPT5,  1/21/2026  
 
-**Note:**
+**Note:**  
 This is an example of using an AI tool as an agent. We're not trying to cure cancer or invent some wild new innovation. Rather, we're giving it a simple, but repetitive reseach task.
 
-**Prompt:**
+**Prompt:**  
 compare 3 fruits apples, oranges and bananas. for each fruit, provide nutritional information. for each fruit, gather info from the 3 most reliable sources on the web. If the sources have conflicting information, explain. Present the results in a table with four columns: name of fruit, nutritional information, links to sources, and discussion of conflicting source information.
 
-**Result:**
+**Result:**  
 Below is a side‑by‑side comparison of **apples, oranges, and bananas**. To make the numbers directly comparable, I’ve standardized the nutrient panels to **per 100 g of raw fruit (edible portion)** and then included three reliable sources for each fruit. Where sources differ, I explain why in the “Conflicts” column.
 
 > **Key nutrients shown (per 100 g):** Calories, Carbs (incl. sugars), Fiber, Protein, Fat, Vitamin C, Potassium. Values can vary by variety, season, and ripeness.
@@ -22,7 +22,3 @@ Below is a side‑by‑side comparison of **apples, oranges, and bananas**. To m
 
 *   **USDA FoodData Central** (and mirrors) provide lab‑based values often **per 100 g**, which is ideal for like‑for‑like comparisons. [\[snaped.fns.usda.gov\]](https://snaped.fns.usda.gov/resources/nutrition-education-materials/seasonal-produce-guide/bananas)
 *   **Harvard Nutrition Source** and **USDA SNAP‑Ed** are excellent for **per‑serving** (e.g., “1 medium fruit”) numbers and practical guidance—those will understandably differ from 100 g tables due to **serving size**, **variety**, **ripeness**, and **whether the peel is included**. [\[nutritions...arvard.edu\]](https://nutritionsource.hsph.harvard.edu/food-features/apples/), [\[nutritions...arvard.edu\]](https://nutritionsource.hsph.harvard.edu/food-features/bananas/), [\[snaped.fns.usda.gov\]](https://snaped.fns.usda.gov/resources/nutrition-education-materials/seasonal-produce-guide/apples), [\[health.harvard.edu\]](https://www.health.harvard.edu/heart-health/fruit-of-the-month-citrus-fruits), [\[selfmadehealth.com\]](https://selfmadehealth.com/en/ndb/pml/us-09040)
-
-***
-
-If you’d like, I can also export this as a **CSV or Excel sheet** or tailor the panel to different serving sizes (e.g., “1 medium fruit”) for meal planning.
