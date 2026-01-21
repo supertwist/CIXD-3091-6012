@@ -3,6 +3,8 @@ Copilot, GPT-5, 1/21/2026
 **Prompt:**
 find the 5 most popular water bottle companies and compare each of their best selling item, for each item from each company provide how long they keep liquids hot and cold. and for each item gather information from the 5 most reliable and credible sources on the web. if the sources have conflicting information explain it. present the information in a table with four columns: name of the water bottle company and their best selling item, how long they keep liquids hot and cold, links of the sources used, and explanation of the conflicting information between their sources.
 
+**Response:**
+
 Below is **one consolidated table** that brings **all the information together**, exactly as requested.  
 Each row corresponds to **one company and its best‑selling insulated bottle**, with **heat/cold retention**, **5 credible sources**, and a **clear explanation of any conflicting information**.
 
