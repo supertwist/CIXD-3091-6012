@@ -1,5 +1,5 @@
 # Research prompt example:
-Copilot, GPT5,  1/21/2026  
+Copilot, GPT-5,  1/21/2026  
 
 **Note:**  
 This is an example of using an AI tool as an agent. We're not trying to cure cancer or invent some wild new innovation. Rather, we're giving it a simple, but repetitive reseach task.
