@@ -1,6 +1,7 @@
 **Superpowers**
 - I have ADHD
 - Billingual (Chinese + English)
+- Super spontaneous & adventurous
 
 **Skills**
 - Adobe CC
