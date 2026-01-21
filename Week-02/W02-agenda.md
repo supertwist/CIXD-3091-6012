@@ -1,6 +1,4 @@
 # Week 2 Agenda
-Build a prompt that will jump‑start the process of re‑designing the LEGO brick! Post prompts and research to GitHub by Jan 27.
-
 + quick visit to the sculpture studio:
   + meet Daniel Jonas
   + discuss resources available
@@ -10,14 +8,23 @@ Build a prompt that will jump‑start the process of re‑designing the LEGO bri
 + review skills, form teams
 + AI lecture
 + AltLego assignment
-+ An exercise:
-  + make a list of 5 possible lego bricks, then choose the one that's most interesting to you...
-  + formulate a research question
-  + turn that research question into a prompt that gathers information from at least 5 web sites
-  + ensure your prompt specifies that the result should cite the sources
-  + ensure your prompt delivers the results as a table with at least 3 columns
-  + run your prompt in Copilot
-  + copy/pase the resules into a new .md file, saved in the Week-02 sub-directory
++ 
++ A Copilot exercise:
+  + think about a research question that compares *some things,* for example:
+    + what are top ten strangest Lego bricks?
+    + what are top five easiest CAD tools for beginners?
+    + what are most common generative AI tools?
+  + you want 5 credible online sources for each of *the things.* 
+  + now think about what criteria will help you select from those results
+    + (ex: lego) how complicated is the brick?
+    + (ex: AD) how long will it take to learn this program?
+    + (ex: AI) what kinds of probrems is this tool best at solving reliably?
+  + you want Copilot to check for consistency across the sources
+  + you want the results returned in a table format (it will be in markdown)
+  + copy the result into a new file /week-02/yourname/research.md 
+  + 
++ Build a prompt that will jump‑start the process of re‑designing the LEGO brick! Post prompts and research to GitHub by Jan 27.  
++ 
 + Useful links:
   + [**Autodesk** EDU account signup](https://www.autodesk.com/education/home)
   + [**Fusion 360 Essential Training** on LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=74651410&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ffusion-360-essential-training-2%3Ftrk%3Dshare_ent_url%26shareId%3DFqk57jt4Qwyu5OiS8hW5cA%253D%253D)
