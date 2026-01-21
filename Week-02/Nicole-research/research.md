@@ -1,3 +1,7 @@
+**Model**
+
+M365 Copilot, built by Microsoft and based on the GPT‑5 chat model.
+
 **Prompt**
 
 I would like you to compare the temperatures of the planets in our solar system, sorting them in a table from the hottest to the coldest (top to bottom). Create a table that includes four rows, including the planet’s name, temperature, five reliable sources that support scientific research on the planet’s temperature, and any conflicting sources that contradict this information. 
