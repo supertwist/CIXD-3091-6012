@@ -21,12 +21,3 @@ Below is a **side‑by‑side comparison of three of the highest‑rated documen
 *   **Most uniformly acclaimed:** *O.J.: Made in America* (exceptional scores across critics *and* audiences).
 *   **Highest critical purity for a feature‑length film:** *Summer of Soul* (top‑tier Metacritic + Oscar win).
 *   **Most immersive technical achievement:** *Apollo 11* (slightly lower Metacritic, but virtually unanimous praise).
-
-If you’d like, I can:
-
-*   Swap in **streaming‑era docs only (2020–2025)**,
-*   Rank these **strictly by one metric** (critics vs. audience),
-*   Or add **one or two alternates** (e.g., *Free Solo*, *Collective*, *Flee*).
-
-Just tell me how you’d like to refine it.
-an also re‑rank these three strictly **by a single metric** (e.g., Metacritic or IMDb), or swap in different top‑rated docs—like *The Act of Killing* or *Man on Wire*—and rebuild the table the same way. Any preference on the ranking method or additional titles you’d like me to include?
