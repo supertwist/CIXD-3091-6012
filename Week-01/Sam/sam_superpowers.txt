@@ -1,13 +1,13 @@
 Sam's Superpowers
 
 Photoshop
-Illustrator
 InDesign
 Figma 
 Bilingual: English + Korean
 
 Skills:
 
+Illustrator
 basic terminal
 Fusion360
 3D printing
@@ -19,3 +19,5 @@ SKI
 Hockey
 Woodwork
 Cooking
+Tennis
+Clarinet
