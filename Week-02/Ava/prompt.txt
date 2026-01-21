@@ -1,0 +1,5 @@
+What are the top 5 places to buy custom stickers to be printed from online?
+How is the paper quality? How accurate are the colors? What has the best price point? 
+Give me 5 credible source reviews for each of the businesses. 
+Check for consistency across the sources. 
+Return the results in a table format as a markdown file. 
