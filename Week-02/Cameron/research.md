@@ -14,7 +14,7 @@ result: The comparison shows that 3ds Max and Blender are the most effective too
 | Autodesk 3ds Max | ⭐⭐⭐⭐⭐ | Polygon modeling and Booleans | Modifier stack enables non-destructive LEGO edits | [7][8][9] |
 | ZBrush | ⭐⭐☆☆☆ | Imports and edits meshes | Organic sculpting; poor LEGO precision | [10][11][12] |
 | SketchUp | ⭐⭐⭐☆☆ | Layout-based modeling | Explode-to-edit; weak for dense LEGO meshes | [13][14][15] |
-``
+
 
 ### 📚 Sources
 
