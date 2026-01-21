@@ -1,6 +1,6 @@
 Copilot, GPT-5, 1/21/2026
 
-# Prompts: compare 3 of the highest rated documentaries that have been released within the past century. for each film, rating details and notable reviews. for each film, gather info from the 5 most reliable sources on the web. If the sources have conflicting information, explain. Present the results in a table with four columns: name of film, ratings, reviews, links to sources, and discussion of conflicting source information.
+Prompt: compare 3 of the highest rated documentaries that have been released within the past century. for each film, rating details and notable reviews. for each film, gather info from the 5 most reliable sources on the web. If the sources have conflicting information, explain. Present the results in a table with four columns: name of film, ratings, reviews, links to sources, and discussion of conflicting source information.
 
 Below is a compact, source‑driven comparison of **three of the most consistently highest‑rated documentaries released in the last 100 years**—validated by major critics’ polls (BFI/Sight & Sound) and aggregate ratings (Metacritic, IMDb, Rotten Tomatoes). I’ve included concrete rating details, notable review takeaways, five authoritative links per film, and a short note on any source discrepancies.
 
