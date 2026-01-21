@@ -3,6 +3,7 @@
 - Billingual (Chinese + English)
 - Super spontaneous & adventurous
 - I love soldering
+- Retired theatre kid
 
 **Skills**
 - Adobe CC
