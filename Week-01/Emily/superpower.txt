@@ -9,4 +9,3 @@ Creative Makeup
 Photoshop
 illustrator
 figma
-github
