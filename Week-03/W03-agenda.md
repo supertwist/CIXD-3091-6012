@@ -4,7 +4,8 @@
 + haven't built a model yet? Help from James and classmates.
 + model built: save as .STL and print ONE  
 
-**DEMOs here**
+**DEMOs here**  
+
 + Review of basic 3D printing...
 then...
 + Filaments: PLA, ABS, PETG, TPU, and on...
@@ -15,6 +16,7 @@ then...
 + Infill types 
 + Smoother surfaces
 + Tools  
+
 **Ready to print!**  
 
 + test printed brick with *real* lego bricks
