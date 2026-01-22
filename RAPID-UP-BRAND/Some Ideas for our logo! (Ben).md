@@ -5,3 +5,5 @@ I think it would be great to work collectively on a design for 'Rapid Up', and p
 ![unnamed-1](https://github.com/user-attachments/assets/0b833a4a-edf7-448a-b65c-d2c2bd2b8245)
 ![unnamed-2](https://github.com/user-attachments/assets/f35dbf5e-f6bf-4530-b278-2173085d2c61)
 ![unnamed](https://github.com/user-attachments/assets/76a585f1-0262-4a57-b456-8e9e7ac1f0f1)
+
+**James says** given we have team members who like to pet rabbits, I think our mascoy *has to be a rabbit.*
