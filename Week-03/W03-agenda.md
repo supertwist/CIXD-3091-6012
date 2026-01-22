@@ -4,7 +4,7 @@
 + haven't built a model yet? Help from James and classmates.
 + model built: save as .STL and print ONE  
 
-**DEMOs here**  
+**DEMOs here:**  
 
 + Review of basic 3D printing...
 then...
