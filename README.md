@@ -11,7 +11,9 @@ This isn't a plain vanilla .TXT file or a MS-Word .DOCX - it uses **markdown** t
 
 **The syllabus for this class:**
 + [Online here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-Syllabus.md) - Includes updates that aren't in the .PDF **FRESH**
-+ [PDF here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-syllabus-Huckenpahler-S26.pdf) - Document-of-record for bureaucracy. **CRUSTY**
++ [PDF here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/CIXD-3091-6012-syllabus-Huckenpahler-S26.pdf) - Document-of-record for bureaucracy. **CRUSTY**  
+
+[Ongoing **linkroll** here](https://github.com/supertwist/CIXD-3091-6012/blob/main/General/Research-Links.md)  
 
 **Always have on hand, every class... or sacrifice to Leatherface!**
 + Notebook and pens
