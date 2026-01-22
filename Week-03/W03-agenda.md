@@ -3,6 +3,7 @@
 + review the one you've chosen to focus on
 + haven't built a model yet? Help from James and classmates.
 + model built: save as .STL and print ONE  
+
 **DEMOs here**
 + Review of basic 3D printing...
 then...
@@ -14,7 +15,8 @@ then...
 + Infill types 
 + Smoother surfaces
 + Tools  
-**Ready to print!**
+**Ready to print!**  
+
 + test printed brick with *real* lego bricks
 + if it doesn't click, revise, iterate
 + if you just don't like it aesthetically, revise, iterate
