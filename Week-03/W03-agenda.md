@@ -2,7 +2,7 @@
 + review your five concepts
 + review the one you've chosen to focus on
 + haven't built a model yet? Help from James and classmates.
-+ model built: save as .STL and print ONE
++ model built: save as .STL and print ONE  
 **DEMOs here**
 + Review of basic 3D printing...
 then...
@@ -13,7 +13,7 @@ then...
 + Support types
 + Infill types 
 + Smoother surfaces
-+ Tools
++ Tools  
 **Ready to print!**
 + test printed brick with *real* lego bricks
 + if it doesn't click, revise, iterate
