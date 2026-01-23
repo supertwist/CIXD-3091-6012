@@ -4,6 +4,9 @@ Starting with a detailed work plan to see if that will keep Claude focused.
 **Prompt:**  
 Use Opus 4.5 to create a detailed work plan for the construction of a .STEP file of a 2x3 Lego brick. 
 
+**Model:**  
+Claude Code, Opus 4.5, 1/23/2026
+
 **Result:**  
 
 # Work Plan: 2x3 Lego Brick STEP File Construction
