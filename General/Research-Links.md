@@ -4,6 +4,8 @@ Feel free to add links to share with the class - just add them to the top. And b
 
 ---
 
++ [An **intro to Claude Code** and vibe coding for non-coders](https://www.youtube.com/watch?v=ji_xpQzZDHo) - a short video from NYT.
+
 + [Transcript: **‘Opus 4.5 Changed How Andrew Wilkinson Works and Lives’**](https://every.to/podcast/transcript-opus-4-5-changed-how-andrew-wilkinson-works-and-lives). This is one of those situations that's like a traffic accident: you can't look away the brogrammers talking to each other in their wretched bubble of tech enthusiasm, but there are amazing possibilities they open up to potential uses of AI for something other than lifestyle BS. "Looksmax me" has got to be the shallowest, most self-absorbed nonsense I've heard since Trump said he needs Greenland for his ego last week.
 
 + [Great essay by Cory Doctorow in the **Guardian** on why AI will fail](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur)
