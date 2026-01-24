@@ -1,5 +1,5 @@
 **Note:**  
-As artists/designers, can we use out *native abilities* - we make drawings, think visually, and with our hands, not just in verbal/written language - as prompt inputs for tools like Claude?
+I've been hearing about "MCPs" in genAI circles and wanted to know what they are. I ran across a reference to a "Figma MCP" which makes me wonder, can we plug Copilot into Figma in some way that would make interesting prototypes at scale? Hmmmm...  
 
 **Prompt:**  
 Provide a short, plain english description of an MCP server in the context of generative AI. Cite three reputable sources, and include links. Discuss conflicts between the sources, if any.
