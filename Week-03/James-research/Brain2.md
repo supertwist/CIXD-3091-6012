@@ -5,8 +5,6 @@ This is a really risky experiment I'm attempting! I'm attempting to build an AI 
 Claude Code, Opus, 1/24/2026
 
 **Prompt:**  
-Prompt for Claude Code:
-
 The goal is to build a working system based on this plan, but using a different tech stack, most of which is running locally.  
 '/Users/james/GIT/Claude/Brain2/Second Brain Build Guide.pdf'
 
