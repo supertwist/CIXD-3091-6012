@@ -71,3 +71,9 @@ If you'd like, I can also provide:
 *   A visual diagram explaining how MCP servers connect AI systems to tools
 *   A more technical definition
 *   Examples of popular MCP servers and what they do
+
+---
+
+# That led me to...
+
+[The **Figma help docs** have a page on their MCP including a video](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
