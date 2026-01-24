@@ -76,4 +76,6 @@ If you'd like, I can also provide:
 
 # That led me to...
 
-[The **Figma help docs** have a page on their MCP that includes videos](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
+[The **Figma help docs** have a page on their MCP that includes videos](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)  
+
+[For me, **since I use WARP,** a sexy terminal that works well with Claude, but not relevant to you guys..](https://docs.warp.dev/knowledge-and-collaboration/mcp#adding-an-mcp-server)
