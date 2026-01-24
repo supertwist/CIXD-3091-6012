@@ -76,4 +76,4 @@ If you'd like, I can also provide:
 
 # That led me to...
 
-[The **Figma help docs** have a page on their MCP including a video](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
+[The **Figma help docs** have a page on their MCP that includes videos](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
