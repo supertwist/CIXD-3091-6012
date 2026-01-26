@@ -6,4 +6,4 @@ and additionally from a greater perspective, they're prey animals made and destr
 so I propose something like these,
 1) idk a tall scribbly rabbit seems hip 
 2) emphasizes iterations 
-3) ideas are always evolving and also to me give a sense of future building 
+3) ideas are always evolving and also to me give a sense of future building (the sun behind it is optional)
