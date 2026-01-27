@@ -5,6 +5,6 @@ https://docs.google.com/presentation/d/1am_yvFbJPzBSyIauk-6-_uTb22-uLFaeCOSqY3bR
 
 
 (feel free to use this) 
-Replica 2x4 lego I made in rhino:
+Replica 2x4 lego I made in Riino:
 
 [LEGO2x4.stl.zip](https://github.com/user-attachments/files/24867363/LEGO2x4.stl.zip)
