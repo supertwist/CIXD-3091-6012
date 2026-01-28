@@ -20,3 +20,25 @@ Below is a comparison of **five common hypoallergenic dog breeds**. To provide a
 
 * **The "Myth" of Hypoallergenic:** Major health organizations like the AAAAI state that "hypoallergenic" is often a marketing term. 
 * **Allergen Levels:** Studies comparing dust samples from homes with hypoallergenic vs. regular dogs found no significant difference in environmental allergen levels.
+
+
+
+
+### Grooming Tools & Cost Comparison
+
+Grooming a hypoallergenic dog involves a combination of specialized brushes for daily maintenance and high-performance electric tools for periodic styling.
+
+| Tool Type | Price Range (Low to High) | Top Recommended Models & Costs | Use Case for Hypoallergenic Breeds |
+| :--- | :--- | :--- | :--- |
+| **Slicker Brushes** | **$6 – $66** | **Chris Christensen Big G:** $50–$66 | Essential for Poodles and Bichons to prevent matting in curly/thick hair. |
+| **Pin Brushes** | **$5 – $45** | **Chris Christensen Oval:** $43–$45 | Best for breeds with long, silky hair like the Maltese to detangle without breakage. |
+| **Grooming Combs** | **$6 – $20** | **Well & Good ProStyle:** $19.49 | Used after brushing to ensure no deep mats remain near the skin. |
+| **Electric Clippers** | **$30 – $210** | **Wahl Professional Arco Kit:** $176 | Required for full-body haircuts every 4–8 weeks. |
+| **Professional Shears** | **$55 – $160+** | **WISH 8" Straight Shears:** $139 | Necessary for precision facial trimming (beards/eyebrows) and finishing touches. |
+
+---
+
+### Key Financial Takeaways
+
+* **Initial DIY Investment:** Starting a home-grooming setup typically costs around **$300** upfront. This can lead to substantial long-term savings compared to professional salon costs, which range from **$600 to $1,200 annually**.
+* **Individual Variation:** A person may react strongly to one Poodle but not another. Experts recommend spending time with a specific dog before adoption to test personal tolerance.
