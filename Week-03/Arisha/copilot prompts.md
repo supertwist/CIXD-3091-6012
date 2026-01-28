@@ -540,4 +540,208 @@ Just tell me what you'd like!
 
 
 
+Copilot, GPT-5, 1/28/2026
+
+Prompt: I want to make a diagonal slide across the top of a 3D box I made in Fusion. How would I go about doing this?
+
+Here’s a clear, practical guide for how to create a **diagonal slide** (a sloped cut or surface) across the top of a 3D box in **Fusion 360**.  
+There are **three reliable methods**, depending on the shape you want.  
+I’ll walk you through each one step‑by‑step.
+
+***
+
+# ✅ **Method 1 — Create a Diagonal Plane and Extrude Cut (Most Flexible)**
+
+This method works well if you want a clean, planar diagonal surface.
+
+### **1. Create a construction plane**
+
+1.  Go to **Construct → Plane at Angle**
+2.  Select one of the vertical edges of your box
+3.  Adjust the angle until the plane tilts the way you want
+
+This gives you a slanted plane intersecting the top.
+
+### **2. Sketch on that angled plane**
+
+*   Create a **2D sketch** on the angled plane
+*   Draw a **rectangle** larger than the top of the box (so the cut fully passes through)
+
+### **3. Perform an Extrude Cut**
+
+1.  Finish sketch
+2.  Choose **Extrude → Cut**
+3.  Drag downward through the box
+
+✔️ Result: a clean diagonal “slide” across the top.
+
+***
+
+# ✅ **Method 2 — Create a Sloped Profile and Loft (Best for smooth curvature)**
+
+If you want something more like a ramp rather than a flat diagonal plane:
+
+### **1. Create a sketch on the top face**
+
+Draw the starting edge of the slide.
+
+### **2. Create another sketch on a side face**
+
+Draw the end profile (lower/higher).
+
+### **3. Use Loft**
+
+1.  Go to **Create → Loft**
+2.  Select the two profiles
+
+✔️ This gives you a sloped surface that can be straight or smooth depending on guide rails.
+
+***
+
+# ✅ **Method 3 — Draw the Diagonal on the Side and Extrude Cut (Fastest)**
+
+This is the method most people use for simple diagonal cuts.
+
+### **1. Sketch on one side of the box**
+
+*   Choose the **side face**
+*   Draw a **diagonal line** showing where the slide begins and ends
+*   Close the profile so it becomes a fully enclosed region
+
+### **2. Extrude Cut**
+
+1.  Select **Extrude → Cut**
+2.  Cut **through the top** of the box
+3.  Make sure “Cut” is active and direction is set correctly
+
+✔️ You’ll get a diagonal sloped surface matching the 2D line you sketched.
+
+***
+
+# 🎯 **Which method should YOU use?**
+
+| Desired Slide Shape            | Best Method |
+| ------------------------------ | ----------- |
+| Flat angled plane              | Method 1    |
+| Simple angled cut              | Method 3    |
+| Smooth, curved, or custom path | Method 2    |
+
+***
+
+# 📝 If you want, I can:
+
+*   Show you which tool to use based on a sketch you upload
+*   Explain how to control the angle precisely
+*   Help you create a parametric version you can adjust later
+*   Walk you through it step‑by‑step inside a Fusion file
+
+Feel free to describe your box shape (or upload an image), and I’ll guide you exactly!
+
+
+
+Prompt: How would I go about making a diagonal cylinder in Fusion?
+
+Creating a **diagonal cylinder** in **Fusion 360** is very straightforward once you know the right tools. The main idea is:
+
+**Make a cylinder whose axis is not perpendicular to the planes.**
+
+There are 3 good methods depending on what you want. I’ll walk you through each.
+
+***
+
+# ✅ **Method 1 — Draw a circle on an angled plane (most common)**
+
+This is the cleanest and most “pure” diagonal cylinder.
+
+### **Step 1: Create an angled construction plane**
+
+1.  Go to **Construct → Plane at Angle**
+2.  Click on any straight **edge** in your model
+3.  Rotate the plane to the angle you want (e.g., 30°, 45°, etc.)
+
+### **Step 2: Sketch a circle on that plane**
+
+1.  Start a **Sketch** on the angled plane
+2.  Draw a circle with your desired diameter
+
+### **Step 3: Extrude the circle**
+
+1.  Finish sketch
+2.  Use **Extrude**
+3.  Pull it in the direction of the plane's normal
+
+✔️ Result: a perfect diagonally oriented cylinder.
+
+***
+
+# ✅ **Method 2 — Draw a circle on a normal plane and extrude along a line (uses "Path" option)**
+
+This method is ideal when you want a cylinder at **exact coordinates** along a **custom diagonal line**.
+
+### **Step 1: Draw the circle normally**
+
+1.  Create a sketch on **Top**, **Front**, or **Right** plane
+2.  Draw your circle
+
+### **Step 2: Create the path**
+
+1.  Create a **sketch** with the diagonal **line** you want the cylinder to follow  
+    (The line can be inside the same sketch or a different one)
+
+### **Step 3: Use Sweep instead of Extrude**
+
+1.  **Create → Sweep**
+2.  **Profile:** the circle
+3.  **Path:** the diagonal line
+
+✔️ Result: a cylinder whose center axis follows any arbitrary diagonal.
+
+This is extremely useful if your diagonal needs to be **precise**, e.g., 3D-printed channels, pipes, or connections between parts.
+
+***
+
+# ✅ **Method 3 — Tilt the cylinder after creation (quick and dirty)**
+
+If you already made a vertical cylinder and just want it diagonal:
+
+### **Step 1: Make a normal cylinder**
+
+Use **Create → Cylinder** on a flat plane.
+
+### **Step 2: Rotate it**
+
+1.  Use the **Move/Copy** tool
+2.  Switch it to **Rotate**
+3.  Select the cylinder body
+4.  Rotate around any axis you need
+
+✔️ Simple, but the base remains the original shape;  
+✔️ Use this method only if the intersection with other parts doesn’t matter.
+
+***
+
+# 🎯 **Which method is best for you?**
+
+| Goal                                      | Best Method          |
+| ----------------------------------------- | -------------------- |
+| Perfect, clean, angled cylinder           | **Method 1**         |
+| Cylinder following a custom diagonal path | **Method 2 (Sweep)** |
+| Already built cylinder and want it tilted | **Method 3**         |
+
+***
+
+# 🔧 Want me to walk you through making it inside your exact model?
+
+If you describe:
+
+*   What angle you want
+*   Where the cylinder should start/end
+*   Whether it cuts or creates material
+*   Whether it should follow a curve or straight diagonal
+
+…I can guide you step‑by‑step or produce the exact procedure for your geometry.
+
+
+
+
 
