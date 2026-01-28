@@ -2,36 +2,45 @@
 
 ## Reference Links to LEGO Dimensions
 
-| Reference Name                                        | Description                                               | Link                                                                 |
-|-------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
-| **LDraw LEGO Dimensions**                            | Detailed LEGO brick dimensions and tolerances             | [LDraw Article on LEGO Dimensions](https://www.ldraw.org/article/218.html) |
-| **GrabCAD LEGO Dimensions Tutorial**                 | Basic explanation of brick dimensions and compatibility   | [LEGO Basic Dimensions Tutorial on GrabCAD](https://grabcad.com/tutorials/lego-01-basic-dimensions-bricks-explained) |
-| **LEGO Brick Measurements (Bartneck)**               | In-depth measurements and design guidelines for LEGO bricks | [Bartneck's LEGO Brick Dimensions and Measurements](https://www.bartneck.de/2019/04/21/lego-brick-dimensions-and-measurements/) |
+| Reference Name                  | Description                                           | Link                                                                 |
+|---------------------------------|-------------------------------------------------------|----------------------------------------------------------------------|
+| **LDraw LEGO Dimensions**       | Detailed LEGO brick dimensions and tolerances         | [LDraw Article on LEGO Dimensions](https://www.ldraw.org/article/218.html) |
+| **GrabCAD LEGO Dimensions Tutorial** | Basic explanation of brick dimensions and compatibility | [LEGO Basic Dimensions Tutorial on GrabCAD](https://grabcad.com/tutorials/lego-01-basic-dimensions-bricks-explained) |
+| **LEGO Brick Measurements**     | In-depth measurements and design guidelines for LEGO bricks | [Bartneck's LEGO Brick Dimensions and Measurements](https://www.bartneck.de/2019/04/21/lego-brick-dimensions-and-measurements/) |
+
+---
 
 ## LEGO Re-Design Concept
 
 ### Concept Overview
-**Folder:** SEE Lego sketches folder.
-
-I am exploring the creation of a **non-conventional LEGO piece** that moves beyond standard rectangular geometry by **incorporating curved or angled forms**. This concept is **inspired by LEGO Flower Bouquet sets**, which demonstrate how expressive, organic shapes can still exist within the LEGO system.
-
-### Goals
-1. **Non-Rectangular Geometry:** Introduce organic forms like curves, arcs, or angled pieces.
-2. **System Compatibility:** Ensure compatibility with existing LEGO pieces, keeping clutch power and functional interlocking intact.
-3. **Creative Expression:** Enable more creative and sculptural builds while maintaining practicality.
-
-
-### Web Link
-- [LEGO Design Concepts on Figma](https://figma.com/board/Oa2mFP5HQHBnccnm9zYine/Lego-Design-Concepts?node-id=0-1&p=f&t=sgH6IkcbmdZM5Hz1-0)
+| **Aspect**          | **Details**                                                                                                                |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Folder**           | SEE Lego sketches folder                                                                                                  |
+| **Description**      | I am exploring the creation of a **non-conventional LEGO piece** that moves beyond standard rectangular geometry by **incorporating curved or angled forms**. This concept is **inspired by LEGO Flower Bouquet sets**, which demonstrate how expressive, organic shapes can still exist within the LEGO system. |
 
 ---
 
-### Concept Images
-**Sketches Folder:** `Week-03/Radhia/`  
+### Goals
+| **Key Target**          | **Details**                                                                                  |
+|--------------------------|----------------------------------------------------------------------------------------------|
+| **1. Non-Rectangular Geometry** | Introduce organic forms like curves, arcs, or angled pieces.                         |
+| **2. System Compatibility**   | Ensure compatibility with existing LEGO pieces, keeping clutch power and interlocking integrity. |
+| **3. Creative Expression**    | Enable more creative and sculptural builds while maintaining practicality.              |
 
-1. ![Lego Design 1](Week-03/Radhia/Lego%20Design%201.png)  
-2. ![Lego Design 2](Week-03/Radhia/Lego%20Design%202.png)  
-3. ![Lego Design 3](Week-03/Radhia/Lego%20Design%203.png)
-4. ![Lego Sketches](Week-03/Radhia/Lego%20Sketches.png)
+---
 
+### Web Link
+| **Title**                              | **Link**                                                                                                          |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **LEGO Design Concepts on Figma**      | [LEGO Design Concepts on Figma](https://figma.com/board/Oa2mFP5HQHBnccnm9zYine/Lego-Design-Concepts?node-id=0-1&p=f&t=sgH6IkcbmdZM5Hz1-0) |
 
+---
+
+## Concept Images
+
+| **Image Name**       | **Description**                         | **File Path**                                                              |
+|-----------------------|------------------------------------------|----------------------------------------------------------------------------|
+| **Lego Design 1**     | Design draft 1                          | ![Lego Design 1](Week-03/Radhia/Lego%20Design%201.png)                     |
+| **Lego Design 2**     | Design draft 2                          | ![Lego Design 2](Week-03/Radhia/Lego%20Design%202.png)                     |
+| **Lego Design 3**     | Design draft 3                          | ![Lego Design 3](Week-03/Radhia/Lego%20Design%203.png))
+
