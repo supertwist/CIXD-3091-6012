@@ -1,4 +1,5 @@
 # Week 3 Agenda
++ review last week's exercise
 + review your five concepts
 + review the one you've chosen to focus on
 + haven't built a model yet? Help from James and classmates.
