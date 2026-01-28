@@ -1,5 +1,5 @@
 **Final concept**
-Now I created a basic 3d LEGO Brick, and learnd how to create the fundamentals of 3D Modeling,
+Now I created a basic 3d LEGO Brick, and learned how to create the fundamentals of 3D Modeling.
 I designed my own LEGO Brick model based on revised drawings.
 
 
