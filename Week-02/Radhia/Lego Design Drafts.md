@@ -20,3 +20,6 @@ I am exploring the creation of a **non-conventional LEGO piece** that moves beyo
 2. **System Compatibility:** Ensure compatibility with existing LEGO pieces, keeping clutch power and functional interlocking intact.
 3. **Creative Expression:** Enable more creative and sculptural builds while maintaining practicality.
 
+
+
+---
