@@ -38,9 +38,13 @@
 
 ## Concept Images
 
-| **Image Name**       | **Description**                         | **File Path**                                                              |
-|-----------------------|------------------------------------------|----------------------------------------------------------------------------|
-| **Lego Design 1**     | Design draft 1                          | ![Lego Design 1](Week-03/Radhia/Lego%20Design%201.png)                     |
-| **Lego Design 2**     | Design draft 2                          | ![Lego Design 2](Week-03/Radhia/Lego%20Design%202.png)                     |
-| **Lego Design 3**     | Design draft 3                          | ![Lego Design 3](Week-03/Radhia/Lego%20Design%203.png))
-
+| **Image Name**       | **Description**                         | **File Path**                                                  |
+|-----------------------|------------------------------------------|----------------------------------------------------------------|
+| **Lego Design 1**     | Design draft 1                          | `Week-03/Radhia/Lego Design 1.png`                            |
+| **Lego Design 2**     | Design draft 2                          | `Week-03/Radhia/Lego Design 2.png`                            |
+| **Lego Design 3**     | Design draft 3                          | `Week-03/Radhia/Lego Design 3.png`                            |
+| **Lego Sketches**     | Overall sketches for the concept        | `Week-03/Radhia/Lego Sketches.png`                            |
+
+---
+
+This should now match the actual file paths exactly as they appear in your repository. Let me know if I should create and upload this to your repository directly!
