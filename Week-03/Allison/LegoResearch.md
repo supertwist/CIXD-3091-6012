@@ -10,7 +10,3 @@ Link to slides: https://docs.google.com/presentation/d/1FwMbOg1mADA7pu_4WGRWyOJr
 
 ***
 
-### Quick tips
-
-*   For **CAD** or precision jigs, prefer **7.986 mm** as the stud pitch and **3.194 mm** for measured plate height; for everyday building/communication, **8.0 mm** and **3.2 mm** are the standard conventions. [\[lugnet.com\]](https://www.lugnet.com/~330/FAQ/Build/dimensions)
-*   If you want, I can export this table as a **printable PDF reference card** or add **LDraw (LDU) equivalents** alongside the mm values.
