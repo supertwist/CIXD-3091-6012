@@ -1,5 +1,7 @@
 SRC: Copilot, GPT5, 01/21/2026
 # Game-to-TV Adaptations: Sales Impact Comparison
+Prompt: Compare 3 best game to tv show adaptations. For each adaptation provide “success” information in regards to sales per. For each adaptation gather info from the 3 most reliable sources on the web. If the sources have conflicting information, explain. Present the results in a table with four columns: name of adaptation, “success” info, links to sources, and discussion of conflicting source information.
+
 
 | Adaptation (TV Platform) | “Success” Info (Impact on Game Sales / Engagement) | Links to Sources | Conflicting Source Discussion |
 |--------------------------|---------------------------------------------------|------------------|-------------------------------|
